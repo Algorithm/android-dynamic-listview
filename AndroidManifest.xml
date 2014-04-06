@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="kr.elab.android.lib.dynamiclistview"
+          android:versionCode="1"
+          android:versionName="1.0">
+    <application android:label="Android Dynamic ListView">
+    </application>
+</manifest>
